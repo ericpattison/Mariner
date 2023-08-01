@@ -1,0 +1,18 @@
+{
+    "packages": [
+        "cloud-init",
+        "cloud-init-azure-kvp",
+        "cloud-utils-growpart",
+        "dhcp-client",
+        "grubby",
+        "hyperv-daemons",
+        "kexec-tools",
+        "netplan",
+        "openssh-server",
+        "python3",
+        "rsyslog",
+        "sgx-backwards-compatability",
+        "WALinuxAgent",
+        "wireless-regdb"
+    ]
+}
